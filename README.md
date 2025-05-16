@@ -1,22 +1,22 @@
 ![](./Assets/OculusSystemSplashScreen.png)
 
-# North Star
+# North Star / 北极星
 
-*North Star* is a visual showcase that demonstrates the visual fidelity possible on Meta Quest devices. It has been built using [*Interaction SDK*](https://developer.oculus.com/documentation/unity/unity-isdk-interaction-sdk-overview/) for interactions, [*Movement SDK*](https://developers.meta.com/horizon/documentation/unity/move-overview) for full body tracking, and [*Audio SDK*](https://developers.meta.com/horizon/documentation/unity/meta-xr-audio-sdk-unity) for spatialized sounds. It is designed to be used primarily for the best intended hand-tracking experience but also provides full controller support.
+*北极星* 是一个视觉展示，旨在展现 Meta Quest 设备上所能达到的视觉保真度。它使用了 [*Interaction SDK*](https://developer.oculus.com/documentation/unity/unity-isdk-interaction-sdk-overview/) 用于交互，[*Movement SDK*](https://developers.meta.com/horizo​​n/documentation/unity/move-overview) 用于全身追踪，以及 [*Audio SDK*](https://developers.meta.com/horizo​​n/documentation/unity/meta-xr-audio-sdk-unity) 用于空间化声音。它主要用于实现最佳的手势追踪体验，同时也提供全面的控制器支持。
 
-This showcase is also available to play for free on the [Horizon Store](https://www.meta.com/experiences/north-star/28679538058299918/).
+此演示也可在 [Horizo​​n Store](https://www.meta.com/experiences/north-star/28679538058299918/) 免费试玩。
 
-## Licenses
+## 许可证
 
-The majority of North Star is licensed under MIT LICENSE. However, files from [Text Mesh Pro](http://www.unity3d.com/legal/licenses/Unity_Companion_License), [DOTween](http://dotween.demigiant.com/license.php), [Unity URP](./Packages/com.unity.render-pipelines.universal/LICENSE.md), and any other third party files are licensed under their respective licensing terms.
+North Star 的大部分内容均采用 MIT 许可证。但是，[Text Mesh Pro](http://www.unity3d.com/legal/licenses/Unity_Companion_License)、[DOTween](http://dotween.demigiant.com/license.php)、[Unity URP](./Packages/com.unity.render-pipelines.universal/LICENSE.md) 以及任何其他第三方文件均采用其各自的许可条款。
 
-## Contributing
+## 贡献
 
-See the [CONTRIBUTING](./CONTRIBUTING.md) file for how to help out.
+请参阅 [CONTRIBUTING](./CONTRIBUTING.md) 文件，了解如何提供帮助。
 
-# Getting Started
+# 入门
 
-## Getting The Code
+## 获取代码
 
 First, ensure you have Git LFS installed by running this command:
 
